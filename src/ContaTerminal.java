@@ -1,11 +1,15 @@
+import java.util.Scanner;
+
 public class ContaTerminal {
     public static void main(String[] args) {
-        //importar a classe scanner
+        Scanner scanner = new Scanner(System.in);
 
-        //exibirs as mensagens para usuario
+        System.out.print("");
 
         //obiter pela classe scanner os valores digitados no terminal
 
         //exibir a mensagem final da conta criada
+
+        scanner.close();
     }
 }

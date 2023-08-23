@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff1aa766-a99e-491b-b3b3-6896f9307fe3" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ContaTerminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaTerminal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
